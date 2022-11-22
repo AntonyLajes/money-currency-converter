@@ -2,4 +2,9 @@
     <string name="app_name">money-currency-converter</string>
     <string name="logo_description">Money Currency Converter logo</string>
     <string name="loading_data_description">Carregando dados</string>
+    <string name="amount">Valor:</string>
+    <string name="currency_converter_title">Currency Converter</string>
+    <string name="input_amount_hint">Insira o valor.</string>
+    <string name="to">De:</string>
+    <string name="from">Para:</string>
 </resources>
