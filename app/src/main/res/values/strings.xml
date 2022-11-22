@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">money-currency-converter</string>
+    <string name="logo_description">Money Currency Converter logo</string>
+    <string name="loading_data_description">Carregando dados</string>
 </resources>
